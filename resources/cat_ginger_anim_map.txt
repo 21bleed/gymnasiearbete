@@ -1,0 +1,9 @@
+# cat_ginger_anim_map.txt
+# Map player animation states to rows in Cat_Ginger.png (0-based row indices)
+# Format: state=row
+# Supported states: idle, run, jump, fall
+# Example below assumes row 0 = idle, row 1 = run, row 2 = jump, row 3 = fall
+idle=0
+run=6
+jump=25
+fall=3

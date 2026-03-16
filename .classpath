@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="resources"/>
 	<classpathentry kind="lib" path="/home/alexander/Skrivbord/se.egy.graphics.v7.6.4.jar"/>
+	<classpathentry kind="lib" path="/home/alexander/Hämtningar/se.egy.graphics.v7.6.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

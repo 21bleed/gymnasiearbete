@@ -38,7 +38,9 @@ public class GameWindow extends JFrame {
     }
 
     public void start() {
+        // ensure frame decorations match panel fullscreen flag (panels can modify undecorated state by toggling)
         setVisible(true);
+        gamePanel.requestFocusInWindow();
         gamePanel.start();
     }
 
